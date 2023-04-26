@@ -1,5 +1,5 @@
 # Chatgpt
-Name a channel "chatgpt" to get ai responses in that channel. Respones can take some time to generate.
+Name a channel "chatgpt" to get ai responses in that channel. Responses can take some time to generate.
 
 # WaifuAi
 Name a channel "waifu" to get ai respones.
