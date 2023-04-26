@@ -5,5 +5,5 @@ Name a channel "chatgpt" to get ai responses in that channel. Responses can take
 Name a channel "waifu" to get ai respones.
 
 # Commands
-!roulette -> changes the name of a random member in the server \n
+!roulette -> changes the name of a random member in the server <br>
 !roll -> picks a random valorant character
